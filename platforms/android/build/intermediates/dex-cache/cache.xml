@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-23.1.1_feea139219660d93b1ae20cbdc17517aa31cc053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-23.1.1_820e01022b8881f3f5f24b0f9ff441e261eccf98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-23.1.1_d71434d6652ba1e5aa7b4c931dff815959cf536b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-23.1.1_99dc493ff9f4624ba5e81410f11198b749fc4e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/nativescript-optimized/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-nativescript-optimized_0685fd161398a8f969109aed5079d61ad05a2da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-23.1.1_9f8de44efbb90a82e49abd02ccf7279788a1f690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-23.1.1_506a8654a8b2880148e2b2866b63abb1de1d3236.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deja/aome/aome/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/deja/aome/aome/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_468edffbcbeccf27d4cc0407148b747e21dcbe8b.jar" />
+    </item>
+
+</items>
